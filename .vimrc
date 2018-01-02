@@ -16,6 +16,7 @@ vnoremap < <gv
 vnoremap > >gv
 
 let mapleader=';'
+let g:NERDSpaceDelims=1
 nmap <c-l> :noh<CR>
 
 nmap <F3> :Grep<CR>
